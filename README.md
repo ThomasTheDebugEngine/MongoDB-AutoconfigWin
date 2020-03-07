@@ -15,7 +15,7 @@ the main database folder is set to be in project root folder (ProjectRoot/db)
 
 inside the db folder is the usual MongoDB file structure (ProjectRoot/db/data and ProjectRoot/db/logs)
 
-in the project root folder there is a config named with the standart name mongod.cfg (ProjectRoot/mongod.cfg)
+in the project root folder there is a config named with the standard name mongod.cfg (ProjectRoot/mongod.cfg)
 
 as long as the parts of the code that control the paths mentioned above are modified correctly the script should be
 able to set correct paths to the local db and start the db at the IP and port set within the supplied config file

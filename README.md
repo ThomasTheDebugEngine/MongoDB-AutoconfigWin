@@ -16,7 +16,7 @@ the project root is assumed to be 2 folders above the script file (ProjectRoot/U
 
 the main database folder is set to be in project root folder (ProjectRoot/db)
 
-inside the db folder is the usual MongoDB file structure (ProjectRoot/db/data and ProjectRoot/db/logs)
+inside the db folder is the usual MongoDB file structure (ProjectRoot/db/data and ProjectRoot/db/logs/mongod.log)
 
 in the project root folder there is a config named with the standard name mongod.cfg (ProjectRoot/mongod.cfg)
 

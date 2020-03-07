@@ -2,6 +2,7 @@
 this is a PowerShell script that will auto-configure MongoDB local storage path and log path in mongod.conf
 and start a CMD session to run the database
 
+//-------------------------------------------------------------------------------------
 IMPORTANT:
 this script assumes PowerShell v3.0+
 
@@ -14,3 +15,4 @@ in the project root folder there is a config named with the standart name mongod
 
 as long as the parts of the code that control the paths mentioned above are modified correctly the script should be
 able to set correct paths to the local db and start the db at the IP and port set within the supplied config file
+//--------------------------------------------------------------------------------------
